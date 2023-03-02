@@ -23,4 +23,4 @@ THEN I am able to successfully create, update, and delete data in my database
 ```
 
 ## Video Walkthrough
-Watch (video walkthrough)[https://watch.screencastify.com/v/PF66qm35LuIL0QrHSj9y].
+Watch [video walkthrough](https://watch.screencastify.com/v/PF66qm35LuIL0QrHSj9y).
